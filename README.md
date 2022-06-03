@@ -52,3 +52,5 @@ A standard three-tier web architecture powers the system:
    ```bash
    git clone https://github.com/visezion/Student-Electronic-Voting-System.git
    cd Student-Electronic-Voting-System
+
+# Commit 0 - Add documentation for setup process @ 2022-06-03T13:39:40
