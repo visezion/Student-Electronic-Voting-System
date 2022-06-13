@@ -54,3 +54,5 @@ A standard three-tier web architecture powers the system:
    cd Student-Electronic-Voting-System
 
 # Commit 0 - Add documentation for setup process @ 2022-06-03T13:39:40
+
+# Commit 7 - Remove deprecated config settings @ 2022-06-13T09:44:15
