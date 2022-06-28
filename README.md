@@ -66,3 +66,5 @@ A standard three-tier web architecture powers the system:
 # Commit 13 - Remove deprecated config settings @ 2022-06-20T09:41:13
 
 # Commit 17 - Update dependencies to latest version @ 2022-06-27T08:33:33
+
+# Commit 19 - Update README with project goals @ 2022-06-28T14:14:21
