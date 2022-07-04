@@ -70,3 +70,5 @@ A standard three-tier web architecture powers the system:
 # Commit 19 - Update README with project goals @ 2022-06-28T14:14:21
 
 # Commit 20 - Update README with project goals @ 2022-06-28T12:27:48
+
+# Commit 23 - Add documentation for setup process @ 2022-07-04T09:09:19
