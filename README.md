@@ -90,3 +90,5 @@ A standard three-tier web architecture powers the system:
 # Commit 35 - Add test cases for invoice module @ 2022-07-19T14:31:18
 
 # Commit 36 - Optimize image rendering speed @ 2022-07-19T12:43:43
+
+# Commit 38 - Update README with project goals @ 2022-07-25T08:46:00
