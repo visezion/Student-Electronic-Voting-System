@@ -1,2 +1,54 @@
-# Student-Electronic-Voting-System
-The aim of this paper is to present an electronic voting system (E-Voting) to be applied to Muni University student's electoral body.
+# Student Electronic Voting System
+
+**Secure, transparent e-voting for Muni University’s student elections** :contentReference[oaicite:0]{index=0}
+
+## Table of Contents
+- [About](#about)  
+- [Features](#features)  
+- [Architecture](#architecture)  
+- [Technology Stack](#technology-stack)  
+- [Getting Started](#getting-started)  
+- [Configuration](#configuration)  
+- [Usage](#usage)  
+- [Contributing](#contributing)  
+- [License](#license)  
+- [Contact](#contact)  
+
+## About
+The Student Electronic Voting System is designed to facilitate secure, end-to-end elections for the Muni University student body. It replaces paper ballots with a web-based platform that ensures voter authentication, vote confidentiality, and real-time result tallying. :contentReference[oaicite:1]{index=1}
+
+## Features
+- **User Authentication:** Secure login for students and administrators.  
+- **Election Management:** Create and schedule elections, define start/end times, and add candidates.  
+- **Candidate Profiles:** Manage candidate details and photos for voter review.  
+- **Secure Voting:** Cast encrypted ballots to preserve voter privacy.  
+- **Real-Time Results:** Live vote‐count updates as polls progress.  
+- **Audit Trail:** Immutable logs of all voting activities for compliance and transparency.  
+- **Responsive UI:** Works seamlessly on desktop, tablet, and mobile devices.
+
+## Architecture
+A standard three-tier web architecture powers the system:
+1. **Presentation Layer:** Responsive frontend built with HTML5, CSS3, and JavaScript.  
+2. **Application Layer:** Backend API and business logic (e.g., PHP with CodeIgniter or Python with Django).  
+3. **Data Layer:** Relational database (MySQL or PostgreSQL) storing user, election, and vote data.
+
+## Technology Stack
+- **Backend:** PHP (CodeIgniter) *or* Python (Django)  
+- **Frontend:** HTML5, CSS3 (Bootstrap), JavaScript (jQuery or Vue.js)  
+- **Database:** MySQL / PostgreSQL  
+- **Security:** HTTPS/TLS, bcrypt password hashing  
+- **Version Control:** Git & GitHub
+
+## Getting Started
+
+### Prerequisites
+- **PHP ≥ 7.4** (if using CodeIgniter) *or* **Python ≥ 3.8** (if using Django)  
+- **MySQL 5.7+** or **PostgreSQL 12+**  
+- **Composer** (for PHP) *or* **pip** (for Python)  
+- **Node.js & npm** (optional, for frontend asset builds)
+
+### Installation
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/visezion/Student-Electronic-Voting-System.git
+   cd Student-Electronic-Voting-System
